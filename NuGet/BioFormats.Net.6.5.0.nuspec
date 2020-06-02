@@ -11,6 +11,7 @@
     <projectUrl>https://github.com/GDanovski/BioFormats.Net</projectUrl>
     <description>BioFormats.Net is software package created by Georgi Danovski and it is based on the original Bio-Formats library for java (https://www.openmicroscopy.org/bio-formats/). The library was converted to .dll executable by using IKVM (https://www.ikvm.net/).</description>
     <summary>Bio-Formats is a software tool for reading and writing image data using standardized, open formats.</summary>
+    <releaseNotes>Find “ikvm-native-win32-x64.dll” and “ikvm-native-win32-x86.dll” in your solution explorer and right click on them. Select “Properties” and change “Copy to Output Directory” to “Copy if newer”.</releaseNotes>
     <copyright>Copyright (c) 2020 Georgi Danovski</copyright>
     <language>en-US</language>
     <dependencies>
@@ -21,5 +22,6 @@
     <file src="content\ikvm-native-win32-x64.dll" target="content\ikvm-native-win32-x64.dll" />
     <file src="content\ikvm-native-win32-x86.dll" target="content\ikvm-native-win32-x86.dll" />
     <file src="lib\BioFormats.Net.dll" target="lib\BioFormats.Net.dll" />
+    <file src="readme.txt" target="" />
   </files>
 </package>

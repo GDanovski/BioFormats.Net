@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.28307.1145
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{2E8F9ED9-A52B-4053-8AB7-8C86F7FA52B5}"
 	ProjectSection(SolutionItems) = preProject
+		NuGet\BioFormats.Net.6.5.0.nupkg = NuGet\BioFormats.Net.6.5.0.nupkg
 		NuGet\BioFormats.Net.6.5.0.nuspec = NuGet\BioFormats.Net.6.5.0.nuspec
+		NuGet\readme.txt = NuGet\readme.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{C76435BA-BA16-4CCD-9E4C-E0822E2E8703}"
