@@ -5,8 +5,8 @@ BioFormats.Net is software package created by Georgi Danovski and it is based on
 [Bio-Formats library](https://www.openmicroscopy.org/bio-formats/) for Java . The library 
 was converted to .dll executable by using [IKVM](https://www.ikvm.net/).</br>
 ## How the project was built
-1. Download and unzip [IKVM](https://www.ikvm.net/index.html)</br>
-2. Download [bio-formats library](https://www.openmicroscopy.org/bio-formats/)</br>
+1. Download and unzip [IKVM](https://www.ikvm.net/index.html) (latest release)</br>
+2. Download [bio-formats library](https://www.openmicroscopy.org/bio-formats/) (latest release)</br>
 3. Open the command prompt and run the following command to create <b>BioFormats.Net.dll</b></br>
 ```
 [PATH]ikvmc -out:[PATH]\BioFormats.Net.dll -fileversion:6.5.0 [PATH]\bioformats_package.jar
