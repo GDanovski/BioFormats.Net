@@ -2,7 +2,7 @@
 Bio-Formats is a software tool for reading and writing image data using standardized, open formats.</br>
 
 BioFormats.Net is software package created by Georgi Danovski and it is based on the original 
-[Bio-Formats library](https://www.openmicroscopy.org/bio-formats/) for Java . The library 
+[Bio-Formats library](https://www.openmicroscopy.org/bio-formats/) for Java. The library 
 was converted to .dll executable by using [IKVM](https://www.ikvm.net/). This allows implementation of bio-formats library to .Net projects written in c#, vb.net or F#.</br>
 ## How the project was built
 1. Download and unzip [IKVM](https://www.ikvm.net/index.html) (latest release)</br>
