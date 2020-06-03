@@ -13,3 +13,5 @@ was converted to .dll executable by using [IKVM](https://www.ikvm.net/).</br>
 ```
 4. Download and install [NuGet Package Explorer](https://www.microsoft.com/en-us/p/nuget-package-explorer/9wzdncrdmdm3?activetab=pivot:overviewtab)</br>
 5. Build the NuGet package by using the <b>BioFormats.Net.dll</b> and NuGet Package Explorer software. <b>It is important to add IKVM as the dependency and the ikvm-native dlls as content</b>.</br>
+## Examples
+Due to similarity between Java and c# you can use almost directly the [examples](https://docs.openmicroscopy.org/bio-formats/6.5.0/developers/java-library.html) provided by the bio-formats team.</br>
