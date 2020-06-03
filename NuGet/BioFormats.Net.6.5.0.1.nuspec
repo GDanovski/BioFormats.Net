@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>BioFormats.Net</id>
-    <version>6.5.0</version>
+    <version>6.5.0.1</version>
     <title>BioFormats.Net</title>
     <authors>Georgi Danovski</authors>
     <owners>Georgi Danovski</owners>
@@ -22,6 +22,6 @@
     <file src="content\ikvm-native-win32-x64.dll" target="content\ikvm-native-win32-x64.dll" />
     <file src="content\ikvm-native-win32-x86.dll" target="content\ikvm-native-win32-x86.dll" />
     <file src="lib\BioFormats.Net.dll" target="lib\BioFormats.Net.dll" />
-    <file src="readme.txt" target="" />
+    <file src="readme.txt" target="readme.txt" />
   </files>
 </package>
